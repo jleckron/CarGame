@@ -1,6 +1,8 @@
 # CarGame
 Final Project for UCSC CMPS 160/L
 
+[See it work](https://jleckron.github.io/CarGame/)
+
 ## Usage:
 - Move mouse to look around
 - Press "W,A,S,D" to move car
